@@ -6,6 +6,7 @@ But how to get started? how to learn java? how to learn java for beginners? How 
 ## **how to learn java**
 There are several ways from where you can learn java programming language whether you are at beginner’s level or at advance.
 ###1. - **YouTube** —
+
 If you are a beginner and don't know about java, you can start you journey with YouTube. YouTube is the world’s largest video sharing platform and you can learn anything for free. There are many big creators on YouTube from their videos you can learn java for free and easily.
 Some YouTube creators from their videos you can learn Java
 1. code with harry
