@@ -1,11 +1,13 @@
-# **Learn java**
+# ** Learn java **
 Java programming language was developed to remove the restrictions of operating systems. A java program can run on any operating system.
 Almost 3 billion devices run on java, so if you are thinking to learn java, it could be a great step.
-But how to get started? how to learn java? how to learn java for beginners? How much time for java? And also best ways to learn java.#
+But how to get started? how to learn java? how to learn java for beginners? How much time for java? And also best ways to learn java.
 
 ## **how to learn java**
+
 There are several ways from where you can learn java programming language whether you are at beginner’s level or at advance.
-###1. - **YouTube** —
+
+### **YouTube** —
 
 If you are a beginner and don't know about java, you can start you journey with YouTube. YouTube is the world’s largest video sharing platform and you can learn anything for free. There are many big creators on YouTube from their videos you can learn java for free and easily.
 Some YouTube creators from their videos you can learn Java
