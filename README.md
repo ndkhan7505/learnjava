@@ -14,7 +14,7 @@ If you are a beginner and don't know about java, you can start you journey with 
 Some YouTube creators from their videos you can learn Java
 
 1. code with harry
-https://www.youtube.com/watch?v=rV_3Lewxx6o
+  https://www.youtube.com/watch?v=rV_3Lewxx6o
 
 2. Great learning
 https://www.youtube.com/watch?v=eKRM-053ei4
