@@ -19,15 +19,17 @@ Some YouTube creators from their videos you can learn Java
 
 ## **Website** -
 There are many websites on the internet from where you can learn java. if you like reading it could be a great way for you to learn java. Also you get a written stuff on websites, which you can’t get on YouTube or on other video sharing platforms.
+
 1.- TutorialCup
 
 2.- Programiz
 
 ## **Online Course** - 
 Online courses could be a great way to learn java. they get available both in written and videos format. So you can learn it at your convenience.
-1.- Udemy
 
-2. -Coursera
+1.-Udemy
+
+2.-Coursera
 
 ## **some tips before starting java journey**
 
