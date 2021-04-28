@@ -45,7 +45,8 @@ https://www.coursera.org/specializations/core-java
 * As you practice more, as you learn more
 * Don’t learn whole course at once, as you learn as practice it.
 
-Java Tutorial
+Learn other programming languages
+
 https://www.tutorialcup.com/java
 
 
